@@ -1,2 +1,2 @@
 # gaganweb-works.io
-text details
+Web Developer
